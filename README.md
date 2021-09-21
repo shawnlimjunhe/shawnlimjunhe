@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shawnlimjunhe
-- 👀 I’m interested in Blockchain, programmable money and all things crypto
+- 👀 I’m interested in SWE, blockchain, and solving challenging problems
 - 🌱 I’m currently learning microservices, docker and kubernetes
 
 
