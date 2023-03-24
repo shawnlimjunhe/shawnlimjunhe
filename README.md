@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shawnlimjunhe
-- 👀 I’m interested in SWE, blockchain, and solving challenging problems
-- 🌱 I’m currently learning microservices, docker and kubernetes
-
+- 👀 I’m interested in SWE, AI, blockchain, and solving challenging problems
+- 🌱 I’m currently learning more about ChatGPT
 
 <!---
 shawnlimjunhe/shawnlimjunhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
